@@ -1,0 +1,11 @@
+{
+  "name": "Lilou — Délia Melters Voice Assistant",
+  "description": "Chic and minimalist voice assistant representing Délia Melters in luxury marketing, communications, and international management. Converses fluently in English, German, and French.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
